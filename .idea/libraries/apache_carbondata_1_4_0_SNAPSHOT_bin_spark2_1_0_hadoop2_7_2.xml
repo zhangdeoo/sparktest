@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="apache-carbondata-1.4.0-SNAPSHOT-bin-spark2.1.0-hadoop2.7.2">
+    <CLASSES>
+      <root url="jar://F:/apache-carbondata-1.4.0-SNAPSHOT-bin-spark2.1.0-hadoop2.7.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://F:/apache-carbondata-1.4.0-SNAPSHOT-bin-spark2.1.0-hadoop2.7.2.jar!/" />
+    </SOURCES>
+  </library>
+</component>
